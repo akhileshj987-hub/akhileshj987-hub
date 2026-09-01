@@ -7,7 +7,7 @@
 I build practical, intelligent software—from AI assistants and data-driven models to responsive web experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-joshi-35a73b386/)
-[![PortFolio](https://akhileshjoshiportfolio.netlify.app/)](https://in.pinterest.com/pin/25262447905305107/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20work-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akhileshjoshiportfolio.netlify.app/)
 
 </div>
 

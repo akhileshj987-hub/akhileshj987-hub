@@ -31,14 +31,6 @@ I build practical, intelligent software—from AI assistants and data-driven mod
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-## Featured projects
-
-| Project | What it demonstrates |
-| --- | --- |
-| [MJ AI Assistant](https://github.com/akhileshj987-hub/MJ-AI-Assistant) | A Python desktop assistant with Groq AI, voice interaction, image generation, and automation. |
-| [Student Placement Prediction](https://github.com/akhileshj987-hub/Student-Placement-Prediction-Using-Machine-Learning) | An end-to-end ML project using data exploration, preprocessing, modelling, and a Streamlit interface. |
-| [Café Website](https://github.com/akhileshj987-hub/cafe-website-client) | A responsive, modern client website focused on practical design and frontend delivery. |
-
 ## What I'm focused on
 
 ```text

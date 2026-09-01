@@ -2,7 +2,7 @@
 
 # Hi, I'm Akhilesh Joshi 👋
 
-### AI & Software Developer · Python · Machine Learning · Full-Stack Web
+### Data Science | Data Analytics | AI/ML | Full-Stack Development
 
 I build practical, intelligent software—from AI assistants and data-driven models to responsive web experiences.
 
